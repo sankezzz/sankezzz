@@ -6,7 +6,7 @@ I love building projects that solve real-world problems I've personally encounte
 
 
 ## 📌 Recent Projects  
-- 🏢 **[Smart Elevator Optimization System]([#https://github.com/sankezzz/Elevator-Optimization])** – Prevents unnecessary stops using YOLO-based real-time detection.  
+- 🏢 **[Smart Elevator Optimization System](#)** – Prevents unnecessary stops using YOLO-based real-time detection.  
 - 🐾 **[Stray Help](#)** – Detects injuries in stray animals & connects them with NGOs for aid.  
 - ⛽ **[Fuel Station Payment Tracker](#)** – Displays online payments at fuel pumps for a seamless experience.  
 
