@@ -9,11 +9,11 @@ I love building projects that solve real-world problems I've personally encounte
 🔹 **[Smart Elevator Optimization System](https://github.com/sankezzz/Elevator-Optimization)**  
    *No more unnecessary stops! Real-time YOLO detection ensures efficiency.*  
 
-🔹 **[Stray Help](https://github.com/sankezzz/stray-help)**  
+🔹 **[Stray Help](https://github.com/sankezzz/StrayAid-ML)**  
    *AI-powered detection for injured strays, instantly connecting them to NGOs.*  
 
-🔹 **[Fuel Station Payment Tracker](https://github.com/sankezzz/fuel-payment-tracker)**  
-   *Forget payment confusion! See transactions live at fuel pumps.*  
+🔹 **[Course-up](https://github.com/sankezzz/COURSE-UP)**  
+   *Acourse review platfoem for all coders to review courses to help other programmers*  
 
 💡 Always open to collaborations & new ideas! Let’s connect.  
 
