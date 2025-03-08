@@ -6,10 +6,10 @@ I love building projects that solve real-world problems I've personally encounte
 
 
 ## 📌 Recent Projects  
-🟢 **[Smart Elevator Optimization System]([https://github.com/sankezzz/smart-elevator](https://github.com/sankezzz/Elevator-Optimization))**  
+🟢 **[Smart Elevator Optimization System]([https://github.com/sankezzz/Elevator-Optimization])**  
    *No more unnecessary stops! Real-time YOLO detection ensures efficiency.*  
 
-🐾 **[Stray Help](https://github.com/sankezzz/stray-help)**  
+🐾 **[Stray Help]([https://github.com/sankezzz/Elevator-Optimization])**  
    *AI-powered detection for injured strays, instantly connecting them to NGOs.*  
 
 ⛽ **[Fuel Station Payment Tracker](https://github.com/sankezzz/fuel-payment-tracker)**  
