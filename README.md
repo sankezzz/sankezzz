@@ -5,15 +5,15 @@
 I love building projects that solve real-world problems I've personally encountered. Whether it's optimizing elevators with real-time monitoring, streamlining online payments at fuel stations, or helping stray animals get the medical attention they need, I always aim to create impact-driven solutions.  
 
 
-## 📌 Recent Projects  
-🟢 **[Smart Elevator Optimization System]([https://github.com/sankezzz/Elevator-Optimization])**  
+## 🔥 Featured Projects  
+🔹 **[Smart Elevator Optimization System](https://github.com/sankezzz/Elevator-Optimization)**  
    *No more unnecessary stops! Real-time YOLO detection ensures efficiency.*  
 
-🐾 **[Stray Help]([https://github.com/sankezzz/Elevator-Optimization])**  
+🔹 **[Stray Help](https://github.com/sankezzz/stray-help)**  
    *AI-powered detection for injured strays, instantly connecting them to NGOs.*  
 
-⛽ **[Fuel Station Payment Tracker](https://github.com/sankezzz/fuel-payment-tracker)**  
-   *Forget payment confusion! See transactions live at fuel pumps.*   
+🔹 **[Fuel Station Payment Tracker](https://github.com/sankezzz/fuel-payment-tracker)**  
+   *Forget payment confusion! See transactions live at fuel pumps.*  
 
 💡 Always open to collaborations & new ideas! Let’s connect.  
 
