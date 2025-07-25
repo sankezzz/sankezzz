@@ -2,7 +2,7 @@
 
 **Innovative Developer | Problem Solver | ML & Web Enthusiast**  
 
-I love building projects that solve real-world problems I've personally encountered. Whether it's optimizing elevators with real-time monitoring, streamlining online payments at fuel stations, or helping stray animals get the medical attention they need, I always aim to create impact-driven solutions.  
+I love building AI-driven projects that solve real-world problems I’ve personally encountered. From developing LangGraph-powered booking assistants and voice AI agents, to optimizing elevators with YOLO-based monitoring, and helping stray animals get urgent medical attention through AI-powered detection and reporting, I focus on creating impact-driven, intelligent solutions that merge Generative AI, computer vision, and automation.
 
 
 
