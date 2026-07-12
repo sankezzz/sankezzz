@@ -6,9 +6,6 @@ I love building AI-driven projects that solve real-world problems I’ve persona
 
 
 
-## Hacktober Contributions  
-[![An image of @sankezzz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sankezzz)](https://holopin.io/@sankezzz)  
-
 ---
 
  **Fun Fact:** I love **chai**  because great ideas need great fuel!  
