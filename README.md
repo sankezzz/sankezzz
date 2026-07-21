@@ -1,8 +1,8 @@
 # Hi there!  I'm Sanket Suryawanshi  
 
-**ML Enginner @SBG | Researcher at IISER Tvm | Randomizing Weights and baises**  
+**ML Enginner @Siroyaa |  I like building cool things - learning at each step - one step at a time **  
 
-I like building cool things - learning at each step - one step at a time 
+
 
 
 
