@@ -1,7 +1,6 @@
 # Hi there!  I'm Sanket Suryawanshi  
 
-**ML Enginner @vConstruct**  
-**I like building**
+**I like building cool shit**
 
 
 
